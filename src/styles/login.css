@@ -37,16 +37,18 @@
 .form button {
     width: 100%;
     height: 1.5rem;
+    margin-top: 10px;
     background-color: #ee9ca7;
-    color: #fff;
+    color: #FFF;
     border: none;
     border-radius: 10px;
 }
 
 input {
     width: 100%;
-    background-color: #1e1e35;
+    background-color: #10101d;
     border: none;
+    border-bottom: 2px solid #ee9ca7;
     color: #fff;
     text-align: center;
 }

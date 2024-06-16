@@ -10,7 +10,7 @@
     
     <div class="container">
         <div class="form">
-            <form action="" method="post">
+            <form action="actions/login.php" method="post">
                 <h1>User</h1>
                 <input type="text" name="username">
                 <h1>Password</h1>
